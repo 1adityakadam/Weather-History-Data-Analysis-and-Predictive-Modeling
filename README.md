@@ -1,2 +1,3 @@
-# Weather-History-Data-Analysis-and-Predictive-Modeling
-The Weather-History-Data-Analysis-and-Predictive-Modeling project predicts weather patterns using regression models and correlation analysis, visualizes relationships, &amp; uses K-Fold cross-validation to enhance model robustness
+Weather-History-Data-Analysis-and-Predictive-Modeling
+
+This project involves analyzing the weatherHistory dataset, focusing on summarizing, visualizing, and exploring the relationship between various weather attributes. Key tasks include data preprocessing, statistical analysis, and applying machine learning models like linear and polynomial regression. The project emphasizes model performance evaluation, hyperparameter tuning, and regularization techniques such as Ridge, Lasso, and Elastic Net. The ultimate goal is to predict temperature values using a test set and report the model's accuracy, offering insights for future improvements.
