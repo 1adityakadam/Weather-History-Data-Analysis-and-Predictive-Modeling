@@ -1,6 +1,6 @@
 Weather-History-Data-Analysis-and-Predictive-Modeling-by-Machine-Learning
 
-This project involves analyzing the weatherHistory dataset, focusing on summarizing, visualizing, and exploring the relationship between various weather attributes. Key tasks include data preprocessing, statistical analysis, and applying machine learning models like linear and polynomial regression. The project emphasizes model performance evaluation, hyperparameter tuning, and regularization techniques such as Ridge, Lasso, and Elastic Net. The ultimate goal is to predict temperature values using a test set and report the model's accuracy, offering insights for future improvements.
+This Machine Learning project involves analyzing the weatherHistory dataset, focusing on summarizing, visualizing, and exploring the relationship between various weather attributes. Key tasks include data preprocessing, statistical analysis, and applying machine learning models like linear and polynomial regression. The project emphasizes model performance evaluation, hyperparameter tuning, and regularization techniques such as Ridge, Lasso, and Elastic Net. The ultimate goal is to predict temperature values using a test set and report the model's accuracy, offering insights for future improvements.
 
 
 <a href='https://github.com/1adityakadam/Weather-History-Data-Analysis-and-Predictive-Modeling/blob/main/weatherhistory_hw2.ipynb'>
